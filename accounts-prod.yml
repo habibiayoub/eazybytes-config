@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related production git APIs"
+  message: "Welcome to EasyBank accounts related production git rabbitMQ APIs"
   contactDetails:
     name: "HABIBI Ayoub - Product Owner"
     email: "{cipher}3cf9bdd977916617ba62e75c793787fae876bc6b1b631af89fc309cd7894f1c4f1f8071bdda786a3116252d0f828bb92"
