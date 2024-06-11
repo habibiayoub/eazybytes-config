@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related local APIs"
+  message: "Welcome to EasyBank accounts related local test refresh APIs"
   contactDetails:
     name: "HABIBI Ayoub - Developer"
     email: "habibiayoub87@gmail.com"
